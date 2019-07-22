@@ -3,7 +3,7 @@
 //  APICrawlerProject
 //
 //  Created by MAC on 7/16/19.
-//  Copyright © 2019 PaulRenfrew. All rights reserved.
+//  Copyright © 2019 John Loehr. All rights reserved.
 //
 
 import UIKit
